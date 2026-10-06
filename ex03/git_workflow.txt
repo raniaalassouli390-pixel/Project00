@@ -1,0 +1,7 @@
+Standard Git Workflow:
+
+1. Edit: Make changes or create new files.
+2. Status: Check modified files using 'git status'.
+3. Add: Stage changes using 'git add <filename>'.
+4. Commit: Save changes with a message using 'git commit -m "Message"'.
+5. Push: Send commits to GitHub using 'git push origin main'.

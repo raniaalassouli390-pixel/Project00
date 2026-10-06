@@ -1,0 +1,40 @@
+dev_workspace:
+total 20
+drwxr-xr-x 5 userrania userrania 4096 Oct  4 11:02 .
+drwxr-xr-x 3 userrania userrania 4096 Oct  4 11:03 ..
+drwxr-xr-x 2 userrania userrania 4096 Oct  4 11:02 archives
+drwxr-xr-x 3 userrania userrania 4096 Oct  4 11:02 projects
+drwxr-xr-x 2 userrania userrania 4096 Oct  4 11:02 tools
+
+dev_workspace/archives:
+total 8
+drwxr-xr-x 2 userrania userrania 4096 Oct  4 11:02 .
+drwxr-xr-x 5 userrania userrania 4096 Oct  4 11:02 ..
+
+dev_workspace/projects:
+total 12
+drwxr-xr-x 3 userrania userrania 4096 Oct  4 11:02 .
+drwxr-xr-x 5 userrania userrania 4096 Oct  4 11:02 ..
+drwxr-xr-x 4 userrania userrania 4096 Oct  4 11:02 web
+
+dev_workspace/projects/web:
+total 16
+drwxr-xr-x 4 userrania userrania 4096 Oct  4 11:02 .
+drwxr-xr-x 3 userrania userrania 4096 Oct  4 11:02 ..
+drwxr-xr-x 2 userrania userrania 4096 Oct  4 11:02 backend
+drwxr-xr-x 2 userrania userrania 4096 Oct  4 11:02 frontend
+
+dev_workspace/projects/web/backend:
+total 8
+drwxr-xr-x 2 userrania userrania 4096 Oct  4 11:02 .
+drwxr-xr-x 4 userrania userrania 4096 Oct  4 11:02 ..
+
+dev_workspace/projects/web/frontend:
+total 8
+drwxr-xr-x 2 userrania userrania 4096 Oct  4 11:02 .
+drwxr-xr-x 4 userrania userrania 4096 Oct  4 11:02 ..
+
+dev_workspace/tools:
+total 8
+drwxr-xr-x 2 userrania userrania 4096 Oct  4 11:02 .
+drwxr-xr-x 5 userrania userrania 4096 Oct  4 11:02 ..
